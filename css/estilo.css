@@ -48,4 +48,39 @@ ul {
 
 .experiencia {
     display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 25px;
+}
+
+.esquerda {
+    width: 20%;
+    text-align: right; 
+}
+
+.titulo-sessao,
+.subtitulo-sessao {
+    font-size: 22px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.subtitulo-sessao {
+    font-size: 17px;
+}
+
+.direita {
+    width: 78%;
+}
+.titulo-h4 {
+    margin-bottom: 5px;
+}
+
+.rodape {
+    background: black;
+    color:#f1f;
+    text-align: center;
+    padding: 5px;
+    margin-top: 30px;
+    
 }
